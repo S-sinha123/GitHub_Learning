@@ -24,5 +24,6 @@ class sinha {
         mahindra.engine();
         mahindra.music();
         mahindra.airBag();
+        System.out.println("This is a Mahindra car.");
     }
 }
