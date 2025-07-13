@@ -56,5 +56,6 @@ class sinha {
         // };
         array.stream().filter(p->p%2==0).map(f->f*2).forEach(n->System.out.println(n));
         System.out.println("Sinha is a Java developer.");
+        System.out.println("This is make from Sinha_World branch.");
     }
 }
